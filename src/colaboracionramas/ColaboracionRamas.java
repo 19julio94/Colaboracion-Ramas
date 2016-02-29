@@ -14,6 +14,9 @@ public class ColaboracionRamas {
         
         
        sum1.suma();
+       sum1.resta();
+       sum1.multiplicacion();
+       sum1.division();
     }
     
 }
